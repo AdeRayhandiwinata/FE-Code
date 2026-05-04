@@ -1,5 +1,5 @@
 export default function learnpage() {
-    return (
+    return(
         <section className="min-h-screen bg-gray-100 p-8 flex flex-col justify-center items-center gap-6">
             <div className="flex gap-6">
                 <div className="bg-cyan-100 p-19 h-90 w-588px rounded-4xl flex flex-col justify-between text-teal-900">
